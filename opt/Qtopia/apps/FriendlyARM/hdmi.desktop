@@ -1,0 +1,10 @@
+[Translation]
+File=QtopiaSettings
+Context=hdmi
+Comment[Desktop Entry/Name]=Use soft hyphen (char U00AD) to indicate hyphenation
+[Desktop Entry]
+Exec=hdmi
+Icon=hdmi
+Type=Application
+Name[]=HDMI
+CanFastload=0

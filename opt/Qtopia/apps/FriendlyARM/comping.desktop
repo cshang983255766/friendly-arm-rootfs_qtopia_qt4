@@ -1,0 +1,10 @@
+[Translation]
+File=QtopiaSettings
+Context=comping
+Comment[Desktop Entry/Name]=Use soft hyphen (char U00AD) to indicate hyphenation
+[Desktop Entry]
+Exec=comping
+Icon=comping
+Type=Application
+Name[]=Com Ping
+CanFastload=0

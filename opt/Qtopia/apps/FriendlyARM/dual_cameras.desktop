@@ -1,0 +1,9 @@
+[Translation]
+File=QtopiaApplications
+Context=dual_cameras
+Comment[Desktop Entry/Name]=Dual Cameras from FriendlyARM
+[Desktop Entry]
+Exec=dual_cameras
+Icon=dual_cameras
+Type=Application
+Name[]=Dual Cameras
